@@ -1,0 +1,5 @@
+Git install
+create a new repositories
+push the code
+learn the git commands
+
