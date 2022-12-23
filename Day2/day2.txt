@@ -1,0 +1,6 @@
+react install
+learn components
+create floders and files
+create a new page by using react-js
+file extensions
+auto tags
