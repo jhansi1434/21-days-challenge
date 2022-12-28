@@ -1,0 +1,13 @@
+#day 3
+#install react icons
+#props
+#functional components
+#class  based components
+#Assignment:To develop or design linkedin webpage (edited) 
+
+
+
+
+
+
+
