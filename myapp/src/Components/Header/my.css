@@ -1,0 +1,47 @@
+ .navbar{
+    
+    background-color: aliceblue;
+    padding: 10px;
+ }
+ /* .home2{
+  float:right;
+  margin-right:40%;
+  font-size:30px;
+  display: grid;
+ }
+ .text{
+   font-size: small;
+ } 
+ .contact{
+   margin-left: 60px;
+   margin-top: -50px;
+ }
+ .con{
+   margin-top: -20px;
+   font-size: small;
+   margin-left: 60px;
+ }
+ .buss{
+   margin-top: -50px;
+  margin-left: 120px;
+ }
+ .net{
+   font-size: small;
+   margin-left: 100px;
+   margin-top: -20px;
+ } */
+
+ .main-div{
+  float: right;
+   display: flex;
+   flex-direction:row ;
+   margin: auto 20px;
+ }
+ .icons{
+   display: flex;
+   flex-direction:column ;
+   justify-content:space-between;
+   align-items: center;
+  margin: auto 20px;
+ }
+ 
