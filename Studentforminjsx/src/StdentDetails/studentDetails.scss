@@ -1,0 +1,38 @@
+th{
+    padding:10px;
+}
+table,th,tr{
+    border-collapse:collapse;
+    border: 1px solid black;
+}
+tr{
+    
+}
+h1{
+    color: rgb(131, 131, 236);
+}
+.main{
+    border:1px solid black;
+   margin-left: 200px;
+   margin-right: 400px;
+   margin-top:20px;
+   margin-bottom: 20px;
+   &__form{
+    margin-left: 100px;
+   }
+   input{
+    // padding:8px;
+    padding-right: 90px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+   }
+   &__submit{
+    background-color: rgb(77, 77, 235);
+    border-bottom: none;
+    margin-bottom: 10px;
+    padding:5px;   
+    align-items: center;
+    justify-content: center;
+}
+}
